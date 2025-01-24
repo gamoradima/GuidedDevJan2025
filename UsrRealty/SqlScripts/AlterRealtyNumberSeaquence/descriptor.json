@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "e3223ce9-5824-94a5-accf-903406678b48",
+    "Name": "AlterRealtyNumberSeaquence",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1737734900000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
