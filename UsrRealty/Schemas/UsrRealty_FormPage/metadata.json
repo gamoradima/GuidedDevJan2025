@@ -15,6 +15,55 @@
   "A4": "420fde29-9d96-4861-9de9-05f08e23ca4e",
   "A5": "05102a8e-f72e-478a-9b07-6ef339ea400e"
 }
++ MetaData.Schema.B2 {
+  "UId": "ec4804c2-5e26-461d-225d-f5ab58f5e4b8",
+  "A2": "PushMeButton_caption",
+  "A3": "420fde29-9d96-4861-9de9-05f08e23ca4e",
+  "A4": "420fde29-9d96-4861-9de9-05f08e23ca4e",
+  "A5": "05102a8e-f72e-478a-9b07-6ef339ea400e"
+}
++ MetaData.Schema.B2 {
+  "UId": "b845ca67-b047-7393-51ec-60813cf77a01",
+  "A2": "addRecord_rpy9ruo_caption",
+  "A3": "420fde29-9d96-4861-9de9-05f08e23ca4e",
+  "A4": "420fde29-9d96-4861-9de9-05f08e23ca4e",
+  "A5": "05102a8e-f72e-478a-9b07-6ef339ea400e"
+}
++ MetaData.Schema.B2 {
+  "UId": "a506f830-3880-4880-184c-1e57ed0a2933",
+  "A2": "addRecord_hkaaz5f_caption",
+  "A3": "420fde29-9d96-4861-9de9-05f08e23ca4e",
+  "A4": "420fde29-9d96-4861-9de9-05f08e23ca4e",
+  "A5": "05102a8e-f72e-478a-9b07-6ef339ea400e"
+}
++ MetaData.Schema.B2 {
+  "UId": "00d44d8c-6e11-b503-7049-47d6f76454e8",
+  "A2": "addRecord_1taxfub_caption",
+  "A3": "420fde29-9d96-4861-9de9-05f08e23ca4e",
+  "A4": "420fde29-9d96-4861-9de9-05f08e23ca4e",
+  "A5": "05102a8e-f72e-478a-9b07-6ef339ea400e"
+}
++ MetaData.Schema.B2 {
+  "UId": "3707d85f-c56d-f2e4-a299-6cc625d7eb1b",
+  "A2": "NumberInput_lfowun0_label",
+  "A3": "420fde29-9d96-4861-9de9-05f08e23ca4e",
+  "A4": "420fde29-9d96-4861-9de9-05f08e23ca4e",
+  "A5": "05102a8e-f72e-478a-9b07-6ef339ea400e"
+}
++ MetaData.Schema.B2 {
+  "UId": "662b7612-6a08-b409-6144-4ea58c635e8a",
+  "A2": "AreaCannotBeLess",
+  "A3": "420fde29-9d96-4861-9de9-05f08e23ca4e",
+  "A4": "420fde29-9d96-4861-9de9-05f08e23ca4e",
+  "A5": "05102a8e-f72e-478a-9b07-6ef339ea400e"
+}
++ MetaData.Schema.B2 {
+  "UId": "68843d9d-8951-26bf-1b67-32ee6ca626ed",
+  "A2": "PriceCannotBeLess",
+  "A3": "420fde29-9d96-4861-9de9-05f08e23ca4e",
+  "A4": "420fde29-9d96-4861-9de9-05f08e23ca4e",
+  "A5": "05102a8e-f72e-478a-9b07-6ef339ea400e"
+}
 = MetaData.Schema.B2.["fd9e5bd2-19ad-68b5-1356-fe7b39d36f28"].A4 "420fde29-9d96-4861-9de9-05f08e23ca4e"
 = MetaData.Schema.B2.["fd9e5bd2-19ad-68b5-1356-fe7b39d36f28"].A5 "05102a8e-f72e-478a-9b07-6ef339ea400e"
 = MetaData.Schema.B2.["a77180d7-a9d0-5c7d-a47b-74c0545a1774"].A4 "420fde29-9d96-4861-9de9-05f08e23ca4e"
@@ -41,11 +90,11 @@
 = MetaData.Schema.B2.["be578da5-5d7d-ab2f-1e20-3e60b2942dd8"].A5 "05102a8e-f72e-478a-9b07-6ef339ea400e"
 = MetaData.Schema.B2.["bdd7993a-a255-b4d6-62d6-fe0785da6821"].A4 "420fde29-9d96-4861-9de9-05f08e23ca4e"
 = MetaData.Schema.B2.["bdd7993a-a255-b4d6-62d6-fe0785da6821"].A5 "05102a8e-f72e-478a-9b07-6ef339ea400e"
-~ MetaData.Schema.B2 ["bfc039ed-4c49-96e9-5a8c-4608ef8fca4f","a4a8a73b-7552-d153-651c-a75cab76469a","fd9e5bd2-19ad-68b5-1356-fe7b39d36f28","a77180d7-a9d0-5c7d-a47b-74c0545a1774","a53e6c9a-741a-21de-9293-9d87d6014595","09d13380-5ba0-e839-0eb2-8c4de07ba379","3e977072-67fa-588e-d554-1d5c45e71ae9","231defdf-a768-e23a-fb30-1af82d65f9f9","d6b949fc-ba7c-e706-6a88-0422133b6a4e","ea614858-aa1f-88eb-88df-0df1c32cb9e4","a9f73c3b-ba40-54c2-52c9-53cb864eba03","0011a5bb-3302-742c-a621-c833f2ec8174","67995f5e-d70a-e2a3-5494-a22737ff9c44","be578da5-5d7d-ab2f-1e20-3e60b2942dd8","bdd7993a-a255-b4d6-62d6-fe0785da6821"]
+~ MetaData.Schema.B2 ["bfc039ed-4c49-96e9-5a8c-4608ef8fca4f","a4a8a73b-7552-d153-651c-a75cab76469a","ec4804c2-5e26-461d-225d-f5ab58f5e4b8","b845ca67-b047-7393-51ec-60813cf77a01","a506f830-3880-4880-184c-1e57ed0a2933","00d44d8c-6e11-b503-7049-47d6f76454e8","3707d85f-c56d-f2e4-a299-6cc625d7eb1b","662b7612-6a08-b409-6144-4ea58c635e8a","68843d9d-8951-26bf-1b67-32ee6ca626ed","fd9e5bd2-19ad-68b5-1356-fe7b39d36f28","a77180d7-a9d0-5c7d-a47b-74c0545a1774","a53e6c9a-741a-21de-9293-9d87d6014595","09d13380-5ba0-e839-0eb2-8c4de07ba379","3e977072-67fa-588e-d554-1d5c45e71ae9","231defdf-a768-e23a-fb30-1af82d65f9f9","d6b949fc-ba7c-e706-6a88-0422133b6a4e","ea614858-aa1f-88eb-88df-0df1c32cb9e4","a9f73c3b-ba40-54c2-52c9-53cb864eba03","0011a5bb-3302-742c-a621-c833f2ec8174","67995f5e-d70a-e2a3-5494-a22737ff9c44","be578da5-5d7d-ab2f-1e20-3e60b2942dd8","bdd7993a-a255-b4d6-62d6-fe0785da6821"]
 = MetaData.Schema.B6 "eea181bb-0781-44f3-b136-01d6b9c7e796"
 = MetaData.Schema.HD1 "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9"
 + MetaData.Schema.HD15 1
-= MetaData.Schema.HD6 "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.ANGULAR_SCHEMA,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schema:{{leftPanel:[],rightPanel:[],actions:[],analytics:[]}},methods:{{}},controlsConfig:{{}},customBindings:{{}},bindings:{{}},parameters:{{}},schemaVersion:0,schemaDifferences:function(){{\n{1}\n}}}};}});"
+= MetaData.Schema.HD6 "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.ANGULAR_SCHEMA,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schema:{{leftPanel:[],rightPanel:[],actions:[],analytics:[]}},methods:{{}},controlsConfig:{{}},customBindings:{{}},bindings:{{}},parameters:{{}},schemaVersion:1,schemaDifferences:function(){{\n{1}\n}}}};}});"
 - MetaData.Schema.B7
 - MetaData.Schema.HD12
 + MetaData.Schema.B7 false

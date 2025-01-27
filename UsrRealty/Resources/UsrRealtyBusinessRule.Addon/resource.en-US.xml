@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.275deed2-58b3-927c-0deb-d80183398eea.Caption" Value="Apply filter: City" />
+			<Item Name="AddonConfig.Rules.624645fe-483c-b082-4263-15a7abbd79b7.Caption" Value="Apply static filter: Manager" />
+			<Item Name="AddonConfig.Rules.6f80ee21-2539-7ebf-51b4-9451bbe28859.Caption" Value="ChildRule-275deed2-58b3-927c-0deb-d80183398eea-ClearValue" />
+			<Item Name="AddonConfig.Rules.9c8eefd0-207b-a8a9-8b9d-3fcac998018c.Caption" Value="ChildRule-275deed2-58b3-927c-0deb-d80183398eea-PopulateValue" />
+			<Item Name="Caption" Value="Realty (Business rules)" />
+		</Items>
+	</Group>
+</Resources>
